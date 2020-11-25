@@ -1,3 +1,7 @@
+# Seq2Seq chatbot
+Trained on cornell movie dialogue corpus with glove 50 embeddings. Run chatbot_main.py
+
+
 # Basic-Chatbot-Structure
 The code contains the basic structuring of a chatbot RNN network. 
 The code uses the nltk toolkit to aid in language processing such as tokenization and case conversions.
