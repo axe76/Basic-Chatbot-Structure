@@ -1,5 +1,5 @@
 # Seq2Seq chatbot
-Trained on cornell movie dialogue corpus with glove 50 embeddings. Run chatbot_main.py
+Trained on cornell movie dialog corpus with glove 50 embeddings. Run chatbot_main.py
 
 
 # Basic-Chatbot-Structure (Chatbot.ipynb)
